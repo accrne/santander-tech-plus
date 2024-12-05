@@ -1,0 +1,38 @@
+Santander Tech+ | Fundamentos Tech
+
+* Conhecendo a área de Desenvolvimento Web *
+Apresentação das áreas de desenvolvimento: front-end, back-end, dev ops, teste, mobile, etc.
+
+* Conhecendo a área de Dados *
+Apresentação da área de dados, o que faz um analista de dados, um cientista de dados e um engenheiro de dados.
+
+--------------------------------------------------------------------
+
+Fundamentos Tech | Básico sobre o funcionamento do computador
+
+* Física dos computadores: Transistores * 
+Material condutor, material isolante e material semicondutor.
+Partes de um transistor: fonte, porta e dreno.
+Transistor de efeito de campo  - MOS - PMOS - CMOS
+Capacitância: capacidade de reter carga elétrica.
+
+*  Circuitos lógico * 
+Lógica booleana (baseada em dois valores, verdadeiro ou falso).
+Operadores e, ou, não, não exclusivo (and, or, not, xor).
+
+* Números binários e a matemática do computador *
+Base decimal, base binária, portas lógicas, carry, borrow, complemento de 2.
+
+* CPU - o cérebro do computador *
+
+* Memórias *
+
+* Sistema operacional *
+
+* Drivers e periféricos *
+
+* Linguagens de programação *
+
+* Sistemas embarcados e internet das coisas *
+
+* Sistemas web e a nuvem *
