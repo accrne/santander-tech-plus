@@ -36,6 +36,7 @@ Gestor de recursos.
 Dispositivos de entrada e saída de dados, analógicos e digitais, transformações de valores analógicos e digitais. 
 
 * Linguagens de programação *
+Linguagem de alto nível/ Linguagem de baixo nível. Linguagem de máquinas, Linguagem de montagem. Compilação, interpretação. Máquina analítica de Charles Babbage, tear programável e cartão perfurado.
 
 * Sistemas embarcados e internet das coisas *
 
