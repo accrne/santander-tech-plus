@@ -39,5 +39,12 @@ Dispositivos de entrada e saída de dados, analógicos e digitais, transformaç�
 Linguagem de alto nível/ Linguagem de baixo nível. Linguagem de máquinas, Linguagem de montagem. Compilação, interpretação. Máquina analítica de Charles Babbage, tear programável e cartão perfurado.
 
 * Sistemas embarcados e internet das coisas *
+Computadores de uso geral. Sistemas embutidos/embarcados. Arduino.
 
 * Sistemas web e a nuvem *
+Protocolos de comunicação. HTTP (cliente-servidor/requisição-resposta). Máquina virtual.
+
+--------------------------------------------------------------------
+
+Fundamentos Tech | História da ciência da computação
+
