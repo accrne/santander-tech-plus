@@ -48,3 +48,5 @@ Protocolos de comunicação. HTTP (cliente-servidor/requisição-resposta). Máq
 
 Fundamentos Tech | História da ciência da computação
 
+* O que é Ciência da Computação *
+Metodologia Científica. Computação como resolução de problemas através de um output e input de informações. Técnicas, métodos para resolução de problemas. Primeira ferramenta de computação, o ábaco.
