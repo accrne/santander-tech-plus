@@ -24,12 +24,16 @@ Operadores e, ou, não, não exclusivo (and, or, not, xor).
 Base decimal, base binária, portas lógicas, carry, borrow, complemento de 2.
 
 * CPU - o cérebro do computador *
+Unida Lógica e Aritmética (ALU), Unidade de Controle, Multiplexador (MUX). Linguagem de máquina, clock, registradores, pipeline de instruções. 
 
 * Memórias *
+Memória de trabalho, memória de armazenamento, transistor e capacitor, memória cash L1, L2, L3. 
 
 * Sistema operacional *
+Gestor de recursos.
 
 * Drivers e periféricos *
+Dispositivos de entrada e saída de dados, analógicos e digitais, transformações de valores analógicos e digitais. 
 
 * Linguagens de programação *
 
