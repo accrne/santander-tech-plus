@@ -58,3 +58,20 @@ Blaise Pascal. Gootfried Wilhelm Leibniz. George Boole; lógica booleana é o si
 George Kantor, elaborador da teoria moderna dos conjuntos, chegando nos seus postulados sobre o infinito. Alan Turing, número computável, número que pode ser representado e trabalho, com isso ganhando algumas limitações. Ponto flutuante , arredondamentos. Infinito relativo.
 
 * Charles Babbage e Ada Lovelace: O computador mecânico *
+Máquina Analítica de Babbage. Lovelace reconhecida como a primeira programadora da história.
+
+* Alan Turing, Tese de Church-Turing e Enigma *
+Quebra de criptografia durante a segunda guerra mundial. Máquinas de estados.
+
+* A Segunda Guerra Mundial e os Computadores Digitais *
+Internet, como solução de comunicação militar. Muda para estrutura civil por volta dos anos 90. Estrutura World Wide Web. Fases da internet. Mark I (computador eletromecânico). Eniac (primeiro eletrônico).
+
+* John von Neumann e o Modelo de von Neumann *
+Problemas do Eniac. Edivac. Arquitetura do computador, conceito de memória e dados.
+Arquitetura de Harvard.
+
+* Dennis Richie: A origem dos sistemas operacionais e a programação como conhecemos hoje *
+Sistema operacional como interface entre usuário e a linguagem do computador. CTSS, MultiCS. Linguagem B, linguagem C, Unix, processamento simultâneo e "all is a file".
+
+* As linguagens de programação *
+ Auto Código, Alick Glennie in 1952 no Mark 1. Primeira linguagem compilada. Fortran, Algol, LISP, Cobol, Basic, Pascal, C, SQL, C++, Objective C, Rasquel, Python, Visual Basic, Ruby, Java, PHP, Javascript, Typescript, C#, Swift.
