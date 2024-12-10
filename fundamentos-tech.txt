@@ -75,3 +75,10 @@ Sistema operacional como interface entre usuário e a linguagem do computador. C
 
 * As linguagens de programação *
  Auto Código, Alick Glennie in 1952 no Mark 1. Primeira linguagem compilada. Fortran, Algol, LISP, Cobol, Basic, Pascal, C, SQL, C++, Objective C, Rasquel, Python, Visual Basic, Ruby, Java, PHP, Javascript, Typescript, C#, Swift.
+
+* Gerações de computadores, cenário atual e futuro *
+Lei de Moore. Geração de computadores. Tubos, transistores, circuitos integrados, semicondutores, interface de uso, micro processadores, computadores pessoais, internet, inteligência artificial.
+
+--------------------------------------------------------------------
+
+Fundamentos Tech | Fundamentos matemáticos
