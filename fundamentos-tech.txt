@@ -82,3 +82,8 @@ Lei de Moore. Geração de computadores. Tubos, transistores, circuitos integrad
 --------------------------------------------------------------------
 
 Fundamentos Tech | Fundamentos matemáticos
+
+* Matemática básica *
+Resolução de problemas, análise dimensional, interpretação de problemas.
+
+*Equações, *
